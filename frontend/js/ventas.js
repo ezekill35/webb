@@ -1,0 +1,1 @@
+// ventas.js: registrar ventas
