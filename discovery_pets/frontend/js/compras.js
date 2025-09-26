@@ -1,1 +1,0 @@
-// compras.js: registrar compras

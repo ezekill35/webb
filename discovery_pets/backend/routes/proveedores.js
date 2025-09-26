@@ -1,1 +1,0 @@
-// proveedores.js: CRUD proveedores
